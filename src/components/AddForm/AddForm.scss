@@ -1,0 +1,6 @@
+.form-container {
+  @apply flex flex-row justify-between;
+  input {
+    @apply text-gray-500;
+  }
+}
